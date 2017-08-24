@@ -1,0 +1,4 @@
+github "MagicalPanda/MagicalRecord" "v2.3.3"
+github "ReactiveCocoa/ReactiveCocoa" "6.0.1"
+github "ReactiveCocoa/ReactiveSwift" "2.0.1"
+github "antitypical/Result" "3.2.3"
